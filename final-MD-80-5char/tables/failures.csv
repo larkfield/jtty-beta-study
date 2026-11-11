@@ -1,0 +1,41 @@
+mode,cls,snr_db,trial,failure,grid_phase,sent,printed
+ft8,qso,-7.0,12,false_text,,CQ RU DA0TV JQ20,CQ RU DA0TV JQ20 | EX8XRA GY1CSQ/P DO93
+ft8,qso,-2.0,5,false_text,,F8ATM DG1CMZ 579 AK,F8ATM DG1CMZ 579 AK | ZI3MRL SN3YQJ R 559 3718
+ft8,qso,4.0,91,false_text,,CQ RU IU8RFR OP62,CQ RU IU8RFR OP62 | UN9HWR L81CIF R OQ20
+ft8,qso,-14.0,506,false_text,,CQ TA1SMO AI26,CQ TA1SMO AI26 | <...> T4J//5YBOJW
+ft8,qso,-14.0,802,false_text,,OJ0D W8DSB +08,OJ0D W8DSB +08 | 7EB7FFFD3D9BFACD0D
+ft4,qso,-9.0,4,missed,,KQ4NHD R2AWL RR73,
+ft4,qso,-9.0,21,missed,,OE8KSM YG3ECA R-03,
+ft4,qso,-8.0,98,missed,,CQ RU JA2BTV AB16,
+ft4,qso,-7.0,42,missed,,CQ RU OZ1AHV JO29,
+ft4,qso,-4.0,69,missed,,DJ4GB N3DGE R 589 NY,
+ft4,qso,-3.0,11,missed,,CQ RU JA1VZO BE53,
+ft4,qso,-3.0,52,missed,,KQ4SER JJ1RUI RR73,
+ft4,qso,4.0,12,missed,,CQ JJ1QPB RK96,
+ft4,qso,7.0,69,missed,,IU1NZP JJ1FDS GG55,
+ft4,qso,10.0,82,missed,,CQ RU IW1GB LQ42,
+ft4,qso,-9.5,16,missed,,DO2YX N9BQA 579 AZ,
+ft4,qso,-9.5,9,missed,,KG6HSQ KD9JAY RR73,
+ft4,qso,-9.5,62,missed,,CQ RU KE8YIK CR36,
+ft4,qso,-9.5,76,missed,,IK5BNG DG6MCX JL37,
+ft4,qso,-9.5,87,missed,,AA1CX VE3CGD 579 ID,
+ft4,qso,-9.5,564,missed,,JA2MNB 2E0PHR 579 NV,
+ft4,qso,-9.5,618,missed,,W9AKS EA8RCC R 589 TX,
+ft4,qso,-9.5,630,missed,,LB8ZJ JR6FNY R-21,
+ft4,qso,-9.5,702,missed,,OH2EDV IZ8XID R 589 MA,
+ft4,qso,-9.5,666,missed,,CQ N4RDU CC32,
+ft4,qso,-9.5,800,missed,,WA7GWM KD8KVO 579 WA,
+ft4,qso,-9.5,817,missed,,CQ RU DL2JAU NP35,
+ft4,qso,-9.5,855,missed,,OH4MVH DK3MT R 589 NE,
+ft4,qso,-9.5,919,missed,,HA1VX WA3PXX 579 UT,
+ft4,qso,-9.5,956,missed,,JP1WAN G0WZM RR73,
+ft4,qso,-9.5,961,missed,,KO4ARL W7CLO R 589 VT,
+ft4,qso,-9.0,519,missed,,JR8HFD K1APC -16,
+ft4,qso,-9.0,509,false_text,,KF0QZB AB9DR +09,KF0QZB AB9DR +09 | HW2RIS LH0CTH/P R KN94
+ft4,qso,-9.0,498,missed,,CQ RU WA8REN QR63,
+ft4,qso,-9.0,684,missed,,IZ6WLW NN9T 579 NM,
+ft4,qso,-9.0,865,missed,,US5IQW OH3EIT R 589 ND,
+ft4,qso,-8.5,48,missed,,UR5SDL W1LP R 589 MO,
+ft4,qso,-8.5,96,missed,,K9BDA HS0ZIB R 589 TN,
+ft4,qso,-8.5,208,missed,,K5DTC KF7BWS -10,
+ft4,qso,-8.5,300,missed,,RC9WC YG3ECA 579 OR,

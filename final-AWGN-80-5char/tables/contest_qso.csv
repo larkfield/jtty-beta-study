@@ -1,0 +1,91 @@
+contest,variant,label,in_qso,kind,sender,text,units,info_bits,channel_bits,airtime_s
+ru,ft8,FT8,False,cq,run,CQ RU K1ABC FN42,1,77,237,12.64
+ru,ft8,FT8,True,call_exch,sp,K1ABC W9XYZ 579 WI,1,77,237,12.64
+ru,ft8,FT8,True,exch_run,run,W9XYZ K1ABC R 589 MA,1,77,237,12.64
+ru,ft8,FT8,True,tu,sp,K1ABC W9XYZ RR73,1,77,237,12.64
+ru,ft4,FT4,False,cq,run,CQ RU K1ABC FN42,1,77,210,5.04
+ru,ft4,FT4,True,call_exch,sp,K1ABC W9XYZ 579 WI,1,77,210,5.04
+ru,ft4,FT4,True,exch_run,run,W9XYZ K1ABC R 589 MA,1,77,210,5.04
+ru,ft4,FT4,True,tu,sp,K1ABC W9XYZ RR73,1,77,210,5.04
+ru,jtty,JTTY,False,cq,run,CQ K1ABC CQ,1,34,118,1.888
+ru,jtty,JTTY,True,call,sp,W9XYZ,1,34,118,1.888
+ru,jtty,JTTY,True,exch_run,run,W9XYZ 599 MA,2,68,236,3.776
+ru,jtty,JTTY,True,exch_sp,sp,599 WI,1,34,118,1.888
+ru,jtty,JTTY,True,tu,run,TU K1ABC CQ,1,34,118,1.888
+ru,jtty,JTTY,False,agn,sp,AGN?,1,34,118,1.888
+ru,jtty-macro,JTTY macros,False,cq,run,CQ K1ABC K1ABC CQ,4,136,472,7.552
+ru,jtty-macro,JTTY macros,True,call,sp,W9XYZ W9XYZ,2,68,236,3.776
+ru,jtty-macro,JTTY macros,True,exch_run,run,W9XYZ 599 MA MA,3,102,354,5.664
+ru,jtty-macro,JTTY macros,True,exch_sp,sp,TU 599 WI WI,3,102,354,5.664
+ru,jtty-macro,JTTY macros,True,tu,run,TU K1ABC CQ,1,34,118,1.888
+ru,jtty-macro,JTTY macros,False,agn,sp,AGN? AGN?,2,68,236,3.776
+ru,psk31,PSK31,False,cq,run,CQ K1ABC CQ,13,55,168,5.44
+ru,psk31,PSK31,True,call,sp,W9XYZ,7,25,126,4.096
+ru,psk31,PSK31,True,exch_run,run,W9XYZ 599 MA,14,60,184,5.952
+ru,psk31,PSK31,True,exch_sp,sp,599 WI,8,30,126,4.096
+ru,psk31,PSK31,True,tu,run,TU K1ABC CQ,13,55,167,5.408
+ru,psk31,PSK31,False,agn,sp,AGN?,6,20,111,3.616
+ru,psk31-macro,PSK31 macros,False,cq,run,CQ K1ABC K1ABC CQ,21,85,243,7.84
+ru,psk31-macro,PSK31 macros,True,call,sp,W9XYZ W9XYZ,15,55,207,6.688
+ru,psk31-macro,PSK31 macros,True,exch_run,run,W9XYZ 599 MA MA,19,75,228,7.36
+ru,psk31-macro,PSK31 macros,True,exch_sp,sp,TU 599 WI WI,16,60,194,6.272
+ru,psk31-macro,PSK31 macros,True,tu,run,TU K1ABC CQ,15,55,189,6.112
+ru,psk31-macro,PSK31 macros,False,agn,sp,AGN? AGN?,13,45,177,5.728
+ru,rtty,RTTY,False,cq,run,CQ K1ABC CQ,19,55,147.0,3.2353
+ru,rtty,RTTY,True,call,sp,W9XYZ,13,25,102.0,2.2452
+ru,rtty,RTTY,True,exch_run,run,W9XYZ 599 MA,21,60,162.0,3.5654
+ru,rtty,RTTY,True,exch_sp,sp,599 WI,13,30,102.0,2.2452
+ru,rtty,RTTY,True,tu,run,TU K1ABC CQ,19,55,147.0,3.2353
+ru,rtty,RTTY,False,agn,sp,AGN?,11,20,87.0,1.9152
+ru,rtty-macro,RTTY macros,False,cq,run,CQ K1ABC K1ABC CQ,29,85,222.0,4.8855
+ru,rtty-macro,RTTY macros,True,call,sp,W9XYZ W9XYZ,23,55,177.0,3.8954
+ru,rtty-macro,RTTY macros,True,exch_run,run,W9XYZ 599 MA MA,26,75,199.5,4.3905
+ru,rtty-macro,RTTY macros,True,exch_sp,sp,TU 599 WI WI,21,60,162.0,3.5654
+ru,rtty-macro,RTTY macros,True,tu,run,TU K1ABC CQ,21,55,162.0,3.5654
+ru,rtty-macro,RTTY macros,False,agn,sp,AGN? AGN?,19,45,147.0,3.2353
+serial,ft8,FT8,False,cq,run,CQ K1ABC FN42,1,77,237,12.64
+serial,ft8,FT8,True,call,sp,K1ABC W9XYZ EN52,1,77,237,12.64
+serial,ft8,FT8,True,exch_run,run,W9XYZ K1ABC -12,1,77,237,12.64
+serial,ft8,FT8,True,exch_sp,sp,K1ABC W9XYZ R-09,1,77,237,12.64
+serial,ft8,FT8,True,tu,run,W9XYZ K1ABC RR73,1,77,237,12.64
+serial,ft4,FT4,False,cq,run,CQ K1ABC FN42,1,77,210,5.04
+serial,ft4,FT4,True,call,sp,K1ABC W9XYZ EN52,1,77,210,5.04
+serial,ft4,FT4,True,exch_run,run,W9XYZ K1ABC -12,1,77,210,5.04
+serial,ft4,FT4,True,exch_sp,sp,K1ABC W9XYZ R-09,1,77,210,5.04
+serial,ft4,FT4,True,tu,run,W9XYZ K1ABC RR73,1,77,210,5.04
+serial,jtty,JTTY,False,cq,run,CQ K1ABC CQ,1,34,118,1.888
+serial,jtty,JTTY,True,call,sp,W9XYZ,1,34,118,1.888
+serial,jtty,JTTY,True,exch_run,run,W9XYZ 599 101,2,68,236,3.776
+serial,jtty,JTTY,True,exch_sp,sp,599 057,1,34,118,1.888
+serial,jtty,JTTY,True,tu,run,TU K1ABC CQ,1,34,118,1.888
+serial,jtty,JTTY,False,agn,sp,AGN?,1,34,118,1.888
+serial,jtty-macro,JTTY macros,False,cq,run,CQ K1ABC K1ABC CQ,4,136,472,7.552
+serial,jtty-macro,JTTY macros,True,call,sp,W9XYZ W9XYZ,2,68,236,3.776
+serial,jtty-macro,JTTY macros,True,exch_run,run,W9XYZ 599 101 101,3,102,354,5.664
+serial,jtty-macro,JTTY macros,True,exch_sp,sp,TU 599 057 057,3,102,354,5.664
+serial,jtty-macro,JTTY macros,True,tu,run,TU K1ABC CQ,1,34,118,1.888
+serial,jtty-macro,JTTY macros,False,agn,sp,AGN? AGN?,2,68,236,3.776
+serial,psk31,PSK31,False,cq,run,CQ K1ABC CQ,13,55,168,5.44
+serial,psk31,PSK31,True,call,sp,W9XYZ,7,25,126,4.096
+serial,psk31,PSK31,True,exch_run,run,W9XYZ 599 101,15,65,195,6.304
+serial,psk31,PSK31,True,exch_sp,sp,599 057,9,35,138,4.48
+serial,psk31,PSK31,True,tu,run,TU K1ABC CQ,13,55,167,5.408
+serial,psk31,PSK31,False,agn,sp,AGN?,6,20,111,3.616
+serial,psk31-macro,PSK31 macros,False,cq,run,CQ K1ABC K1ABC CQ,21,85,243,7.84
+serial,psk31-macro,PSK31 macros,True,call,sp,W9XYZ W9XYZ,15,55,207,6.688
+serial,psk31-macro,PSK31 macros,True,exch_run,run,W9XYZ 599 101 101,21,85,250,8.064
+serial,psk31-macro,PSK31 macros,True,exch_sp,sp,TU 599 057 057,18,70,218,7.04
+serial,psk31-macro,PSK31 macros,True,tu,run,TU K1ABC CQ,15,55,189,6.112
+serial,psk31-macro,PSK31 macros,False,agn,sp,AGN? AGN?,13,45,177,5.728
+serial,rtty,RTTY,False,cq,run,CQ K1ABC CQ,19,55,147.0,3.2353
+serial,rtty,RTTY,True,call,sp,W9XYZ,13,25,102.0,2.2452
+serial,rtty,RTTY,True,exch_run,run,W9XYZ 599 101,23,65,177.0,3.8954
+serial,rtty,RTTY,True,exch_sp,sp,599 057,15,35,117.0,2.5753
+serial,rtty,RTTY,True,tu,run,TU K1ABC CQ,19,55,147.0,3.2353
+serial,rtty,RTTY,False,agn,sp,AGN?,11,20,87.0,1.9152
+serial,rtty-macro,RTTY macros,False,cq,run,CQ K1ABC K1ABC CQ,29,85,222.0,4.8855
+serial,rtty-macro,RTTY macros,True,call,sp,W9XYZ W9XYZ,23,55,177.0,3.8954
+serial,rtty-macro,RTTY macros,True,exch_run,run,W9XYZ 599 101 101,30,85,229.5,5.0505
+serial,rtty-macro,RTTY macros,True,exch_sp,sp,TU 599 057 057,25,70,192.0,4.2254
+serial,rtty-macro,RTTY macros,True,tu,run,TU K1ABC CQ,21,55,162.0,3.5654
+serial,rtty-macro,RTTY macros,False,agn,sp,AGN? AGN?,19,45,147.0,3.2353

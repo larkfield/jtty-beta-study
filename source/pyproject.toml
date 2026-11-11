@@ -1,0 +1,42 @@
+[project]
+name = "jtty-snr-study"
+version = "0.1.0"
+description = "Simulation study of JTTY decode rate vs SNR, with FT8, FT4, RTTY and PSK31 baselines"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.9",
+    "numpy>=2.0",
+    "scipy>=1.13",
+]
+
+[project.scripts]
+jtty-snr-study = "jtty_snr_study.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "ruff>=0.8",
+    "setuptools>=75",
+    "ty>=0.0.1a20",
+]
+
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "codec: needs the built wsjt-codec binary (skipped when it is missing)",
+]

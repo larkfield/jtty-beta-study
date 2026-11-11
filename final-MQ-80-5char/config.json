@@ -1,0 +1,121 @@
+{
+  "run_dir": "/home/tom/ham/jtty-talk/wsjtx-3.3.0-beta5/contrib/jtty_snr_study/results/final-MQ-80-5char",
+  "codec_binary": "/home/tom/ham/jtty-talk/wsjtx-3.3.0-beta5/build/wsjt-codec",
+  "seed": 2027,
+  "modes": [
+    "ft8",
+    "ft4",
+    "jtty",
+    "psk31",
+    "rtty"
+  ],
+  "trials": 1000,
+  "pilot": true,
+  "pilot_trials": 100,
+  "pilot_snrs": [
+    -21.0,
+    -20.0,
+    -19.0,
+    -18.0,
+    -17.0,
+    -16.0,
+    -15.0,
+    -14.0,
+    -13.0,
+    -12.0,
+    -11.0,
+    -10.0,
+    -9.0,
+    -8.0,
+    -7.0,
+    -6.0,
+    -5.0,
+    -4.0,
+    -3.0,
+    -2.0,
+    -1.0,
+    0.0,
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    7.0,
+    8.0,
+    9.0,
+    10.0
+  ],
+  "fine_step_db": 0.5,
+  "fine_margin_db": 3.0,
+  "fixed_snrs": [],
+  "workers": 16,
+  "batch_size": 10,
+  "callsign_file": "/home/tom/ham/jtty-talk/wsjtx-3.3.0-beta5/ALLCALL7.TXT",
+  "channel": "MQ",
+  "noise_hours": 24.0,
+  "turnaround_s": 0.0,
+  "snr_floors": {
+    "jtty": -21.0,
+    "ft4": -21.0,
+    "ft8": -25.0
+  },
+  "extra": {
+    "preset": "standard"
+  },
+  "content_version": 2,
+  "pilot_floor_db": -40.0,
+  "codec_sha256": "4327849cb9c5db3c02ddc6bf0aa0f154909d3ece6472e21873390416ad78b3b6",
+  "wsjtx_version": "wsjtx-3.3.0-beta5",
+  "written": "2026-11-09T20:33:06+00:00",
+  "host": "eileen",
+  "python": "3.15.2",
+  "fading": {
+    "name": "MQ",
+    "spread_hz": 0.1,
+    "delay_ms": 0.5,
+    "description": "Mid latitude, quiet (CCIR 'good')"
+  },
+  "receiver": {
+    "ssb_filter_hz": [
+      300.0,
+      2700.0
+    ],
+    "rtty_filter_hz": [
+      1960.0,
+      2460.0
+    ],
+    "noise_meter_db": 30.0,
+    "reference_bandwidth_hz": 2500.0,
+    "jtty_rx_hz": 1500.0,
+    "jtty_ftol_hz": 20,
+    "jtty_offset_hz": 10.0,
+    "decode_band_hz": [
+      300,
+      2700
+    ],
+    "rtty_tuning_error_hz": 5.0,
+    "rtty": {
+      "baud": 45.45,
+      "mark_hz": 2125.0,
+      "space_hz": 2295.0,
+      "stop_bits": 1.5
+    },
+    "psk31_tuning_error_hz": 5.0,
+    "psk31": {
+      "baud": 31.25,
+      "carrier_hz": 1000.0,
+      "preamble_bits": 32,
+      "postamble_bits": 32,
+      "text_case": "lower",
+      "contest_case": "upper"
+    },
+    "ft_decoder": {
+      "depth": 3,
+      "ap": false
+    }
+  },
+  "unit_scoring": "5-char groups",
+  "rescored_from": "/home/tom/ham/jtty-talk/wsjtx-3.3.0-beta5/contrib/jtty_snr_study/results/final-MQ",
+  "rescored": "2026-11-11T20:35:17+00:00"
+}

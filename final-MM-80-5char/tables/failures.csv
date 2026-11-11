@@ -1,0 +1,41 @@
+mode,cls,snr_db,trial,failure,grid_phase,sent,printed
+ft8,qso,-7.0,12,false_text,,CQ RU DA0TV JQ20,CQ RU DA0TV JQ20 | EX8XRA GY1CSQ/P DO93
+ft8,qso,-14.0,358,false_text,,JA1WOZ KD2LGX JQ17,JA1WOZ KD2LGX JQ17 | 3WP4K1ORG V <DL2SDS> RRR
+ft8,qso,-13.5,653,false_text,,CQ RU W8TU GA21,CQ RU W8TU GA21 | 77E37AA2F7292E8AD0
+ft8,qso,-13.0,414,missed,,G4AHJ JA2SEN R+07,
+ft4,qso,-7.0,34,missed,,UR4UPZ N4KPJ RR73,
+ft4,qso,-3.0,60,missed,,N3EDO AA8IA R 589 UT,
+ft4,qso,-10.5,63,missed,,N5JDT VK5BI RR73,
+ft4,qso,-10.5,86,missed,,N5W HZ1LR -19,
+ft4,qso,-10.5,214,missed,,CQ W5NWT AL97,
+ft4,qso,-10.5,545,missed,,N5WDK AB3OF RR73,
+ft4,qso,-10.5,684,missed,,DL8MFY DH2OAC AP79,
+ft4,qso,-10.5,670,missed,,LU1EBK JK1GDK -03,
+ft4,qso,-10.0,159,false_text,,JK1RHW KQ4KBX 579 ID,JK1RHW KQ4KBX 579 ID | RD0DYC UV8GVS R EI67
+ft4,qso,-10.0,454,missed,,R9MM VE3BVA RR73,
+ft4,qso,-10.0,978,missed,,JA7EEF ZP5GUS GO95,
+ft4,qso,-10.0,963,missed,,F4EZJ K5SAS -16,
+ft4,qso,-9.5,16,missed,,DO2YX N9BQA 579 AZ,
+ft4,qso,-9.5,503,missed,,VU3MMU LU3VML BO41,
+ft4,qso,-9.5,878,missed,,BI3APU KJ4VAD 579 MN,
+ft4,qso,-9.0,240,missed,,W9TN VK7HOB -11,
+ft4,qso,-9.0,261,false_text,,RN4AEW UN6GWG RR73,RN4AEW UN6GWG RR73 | PY8XAZ/R LB2GSL/R R GJ06
+ft4,qso,-9.0,402,false_text,,K1MSR HS5XWY R-21,K1MSR HS5XWY R-21 | PKE9HUQEWJC <...> RR73
+jtty,contest,-5.0,23,missed,0.2553,599 1375,
+jtty,contest,-5.0,15,missed,0.7009,599 1324,
+jtty,contest,-5.0,0,missed,0.3219,JG1YJK,
+jtty,contest,-5.0,2,missed,0.3711,CQ KI5FWJ CQ,
+jtty,contest,-5.0,40,missed,0.3077,TU JI1ETU CQ,
+jtty,contest,-5.0,59,missed,0.4175,DJ7EX 599 WV,599 WV
+jtty,contest,-5.0,75,missed,0.1405,DM2PR 599 HI,599 HI
+jtty,contest,-4.0,25,missed,0.785,K2NNN,
+jtty,contest,-5.0,85,missed,0.631,AGN?,
+jtty,contest,-5.0,86,missed,0.4636,N8RGA 599 CO,599 CO
+jtty,contest,-4.0,7,missed,0.0152,AGN?,
+jtty,contest,-3.0,30,missed,0.0825,599 1330,
+jtty,contest,-3.0,59,missed,0.0318,WA7NMF 599 1662,599 1662
+jtty,contest,-2.0,24,missed,0.0471,AGN?,
+jtty,contest,-2.0,63,missed,0.1035,2E0ACE,
+jtty,contest,-1.0,48,missed,0.8462,K6LTW 599 1720,K6LTW
+jtty,contest,0.0,98,missed,0.1414,CQ WX5OKE CQ,
+jtty,contest,1.0,41,missed,0.9857,JR3LZA 599 DE,JR3LZA

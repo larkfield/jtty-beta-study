@@ -1,0 +1,988 @@
+{
+ "mode_info_measured": {
+  "jtty": {
+   "low_hz": 1483.88671875,
+   "high_hz": 1610.2294921875,
+   "bw99_hz": 126.3427734375
+  },
+  "ft8": {
+   "low_hz": 1496.7041015625,
+   "high_hz": 1546.5087890625,
+   "bw99_hz": 49.8046875
+  },
+  "ft4": {
+   "low_hz": 1493.0419921875,
+   "high_hz": 1572.509765625,
+   "bw99_hz": 79.4677734375
+  },
+  "rtty": {
+   "low_hz": 2081.1767578125,
+   "high_hz": 2335.3271484375,
+   "bw99_hz": 254.150390625
+  },
+  "psk31": {
+   "low_hz": 977.4169921875,
+   "high_hz": 1022.8271484375,
+   "bw99_hz": 45.41015625
+  }
+ },
+ "qso": {
+  "ru": {
+   "jtty": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC CQ",
+     "frames": [
+      "CQ K1ABC CQ"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ",
+     "frames": [
+      "W9XYZ"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 MA",
+     "frames": [
+      "W9XYZ",
+      "599 MA"
+     ],
+     "units": 2,
+     "airtime_s": 3.776,
+     "info_bits": 68,
+     "channel_bits": 236
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "599 WI",
+     "frames": [
+      "599 WI"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "frames": [
+      "TU K1ABC CQ"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN?",
+     "frames": [
+      "AGN?"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    }
+   ],
+   "jtty-macro": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC K1ABC CQ",
+     "frames": [
+      "CQ K1",
+      "ABC K",
+      "1ABC ",
+      "CQ"
+     ],
+     "units": 4,
+     "airtime_s": 7.552,
+     "info_bits": 136,
+     "channel_bits": 472
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ W9XYZ",
+     "frames": [
+      "W9XYZ",
+      "W9XYZ"
+     ],
+     "units": 2,
+     "airtime_s": 3.776,
+     "info_bits": 68,
+     "channel_bits": 236
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 MA MA",
+     "frames": [
+      "W9XYZ",
+      "599 MA",
+      "MA"
+     ],
+     "units": 3,
+     "airtime_s": 5.664,
+     "info_bits": 102,
+     "channel_bits": 354
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "TU 599 WI WI",
+     "frames": [
+      "TU",
+      "599 WI",
+      "WI"
+     ],
+     "units": 3,
+     "airtime_s": 5.664,
+     "info_bits": 102,
+     "channel_bits": 354
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "frames": [
+      "TU K1ABC CQ"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN? AGN?",
+     "frames": [
+      "AGN?",
+      "AGN?"
+     ],
+     "units": 2,
+     "airtime_s": 3.776,
+     "info_bits": 68,
+     "channel_bits": 236
+    }
+   ],
+   "rtty": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC CQ",
+     "airtime_s": 3.2353,
+     "units": 19,
+     "info_bits": 55,
+     "channel_bits": 147.0
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ",
+     "airtime_s": 2.2452,
+     "units": 13,
+     "info_bits": 25,
+     "channel_bits": 102.0
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 MA",
+     "airtime_s": 3.5654,
+     "units": 21,
+     "info_bits": 60,
+     "channel_bits": 162.0
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "599 WI",
+     "airtime_s": 2.2452,
+     "units": 13,
+     "info_bits": 30,
+     "channel_bits": 102.0
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "airtime_s": 3.2353,
+     "units": 19,
+     "info_bits": 55,
+     "channel_bits": 147.0
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN?",
+     "airtime_s": 1.9152,
+     "units": 11,
+     "info_bits": 20,
+     "channel_bits": 87.0
+    }
+   ],
+   "rtty-macro": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC K1ABC CQ",
+     "airtime_s": 4.8855,
+     "units": 29,
+     "info_bits": 85,
+     "channel_bits": 222.0
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ W9XYZ",
+     "airtime_s": 3.8954,
+     "units": 23,
+     "info_bits": 55,
+     "channel_bits": 177.0
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 MA MA",
+     "airtime_s": 4.3905,
+     "units": 26,
+     "info_bits": 75,
+     "channel_bits": 199.5
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "TU 599 WI WI",
+     "airtime_s": 3.5654,
+     "units": 21,
+     "info_bits": 60,
+     "channel_bits": 162.0
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "airtime_s": 3.5654,
+     "units": 21,
+     "info_bits": 55,
+     "channel_bits": 162.0
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN? AGN?",
+     "airtime_s": 3.2353,
+     "units": 19,
+     "info_bits": 45,
+     "channel_bits": 147.0
+    }
+   ],
+   "psk31": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC CQ",
+     "airtime_s": 5.44,
+     "units": 13,
+     "info_bits": 55,
+     "channel_bits": 168
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ",
+     "airtime_s": 4.096,
+     "units": 7,
+     "info_bits": 25,
+     "channel_bits": 126
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 MA",
+     "airtime_s": 5.952,
+     "units": 14,
+     "info_bits": 60,
+     "channel_bits": 184
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "599 WI",
+     "airtime_s": 4.096,
+     "units": 8,
+     "info_bits": 30,
+     "channel_bits": 126
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "airtime_s": 5.408,
+     "units": 13,
+     "info_bits": 55,
+     "channel_bits": 167
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN?",
+     "airtime_s": 3.616,
+     "units": 6,
+     "info_bits": 20,
+     "channel_bits": 111
+    }
+   ],
+   "psk31-macro": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC K1ABC CQ",
+     "airtime_s": 7.84,
+     "units": 21,
+     "info_bits": 85,
+     "channel_bits": 243
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ W9XYZ",
+     "airtime_s": 6.688,
+     "units": 15,
+     "info_bits": 55,
+     "channel_bits": 207
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 MA MA",
+     "airtime_s": 7.36,
+     "units": 19,
+     "info_bits": 75,
+     "channel_bits": 228
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "TU 599 WI WI",
+     "airtime_s": 6.272,
+     "units": 16,
+     "info_bits": 60,
+     "channel_bits": 194
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "airtime_s": 6.112,
+     "units": 15,
+     "info_bits": 55,
+     "channel_bits": 189
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN? AGN?",
+     "airtime_s": 5.728,
+     "units": 13,
+     "info_bits": 45,
+     "channel_bits": 177
+    }
+   ],
+   "ft8": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ RU K1ABC FN42",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    },
+    {
+     "kind": "call_exch",
+     "sender": "sp",
+     "text": "K1ABC W9XYZ 579 WI",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ K1ABC R 589 MA",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    },
+    {
+     "kind": "tu",
+     "sender": "sp",
+     "text": "K1ABC W9XYZ RR73",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    }
+   ],
+   "ft4": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ RU K1ABC FN42",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    },
+    {
+     "kind": "call_exch",
+     "sender": "sp",
+     "text": "K1ABC W9XYZ 579 WI",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ K1ABC R 589 MA",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    },
+    {
+     "kind": "tu",
+     "sender": "sp",
+     "text": "K1ABC W9XYZ RR73",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    }
+   ]
+  },
+  "serial": {
+   "jtty": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC CQ",
+     "frames": [
+      "CQ K1ABC CQ"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ",
+     "frames": [
+      "W9XYZ"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 101",
+     "frames": [
+      "W9XYZ",
+      "599 101"
+     ],
+     "units": 2,
+     "airtime_s": 3.776,
+     "info_bits": 68,
+     "channel_bits": 236
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "599 057",
+     "frames": [
+      "599 057"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "frames": [
+      "TU K1ABC CQ"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN?",
+     "frames": [
+      "AGN?"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    }
+   ],
+   "jtty-macro": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC K1ABC CQ",
+     "frames": [
+      "CQ K1",
+      "ABC K",
+      "1ABC ",
+      "CQ"
+     ],
+     "units": 4,
+     "airtime_s": 7.552,
+     "info_bits": 136,
+     "channel_bits": 472
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ W9XYZ",
+     "frames": [
+      "W9XYZ",
+      "W9XYZ"
+     ],
+     "units": 2,
+     "airtime_s": 3.776,
+     "info_bits": 68,
+     "channel_bits": 236
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 101 101",
+     "frames": [
+      "W9XYZ",
+      "599 101",
+      "101"
+     ],
+     "units": 3,
+     "airtime_s": 5.664,
+     "info_bits": 102,
+     "channel_bits": 354
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "TU 599 057 057",
+     "frames": [
+      "TU 59",
+      "9 057",
+      " 057"
+     ],
+     "units": 3,
+     "airtime_s": 5.664,
+     "info_bits": 102,
+     "channel_bits": 354
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "frames": [
+      "TU K1ABC CQ"
+     ],
+     "units": 1,
+     "airtime_s": 1.888,
+     "info_bits": 34,
+     "channel_bits": 118
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN? AGN?",
+     "frames": [
+      "AGN?",
+      "AGN?"
+     ],
+     "units": 2,
+     "airtime_s": 3.776,
+     "info_bits": 68,
+     "channel_bits": 236
+    }
+   ],
+   "rtty": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC CQ",
+     "airtime_s": 3.2353,
+     "units": 19,
+     "info_bits": 55,
+     "channel_bits": 147.0
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ",
+     "airtime_s": 2.2452,
+     "units": 13,
+     "info_bits": 25,
+     "channel_bits": 102.0
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 101",
+     "airtime_s": 3.8954,
+     "units": 23,
+     "info_bits": 65,
+     "channel_bits": 177.0
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "599 057",
+     "airtime_s": 2.5753,
+     "units": 15,
+     "info_bits": 35,
+     "channel_bits": 117.0
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "airtime_s": 3.2353,
+     "units": 19,
+     "info_bits": 55,
+     "channel_bits": 147.0
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN?",
+     "airtime_s": 1.9152,
+     "units": 11,
+     "info_bits": 20,
+     "channel_bits": 87.0
+    }
+   ],
+   "rtty-macro": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC K1ABC CQ",
+     "airtime_s": 4.8855,
+     "units": 29,
+     "info_bits": 85,
+     "channel_bits": 222.0
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ W9XYZ",
+     "airtime_s": 3.8954,
+     "units": 23,
+     "info_bits": 55,
+     "channel_bits": 177.0
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 101 101",
+     "airtime_s": 5.0505,
+     "units": 30,
+     "info_bits": 85,
+     "channel_bits": 229.5
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "TU 599 057 057",
+     "airtime_s": 4.2254,
+     "units": 25,
+     "info_bits": 70,
+     "channel_bits": 192.0
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "airtime_s": 3.5654,
+     "units": 21,
+     "info_bits": 55,
+     "channel_bits": 162.0
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN? AGN?",
+     "airtime_s": 3.2353,
+     "units": 19,
+     "info_bits": 45,
+     "channel_bits": 147.0
+    }
+   ],
+   "psk31": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC CQ",
+     "airtime_s": 5.44,
+     "units": 13,
+     "info_bits": 55,
+     "channel_bits": 168
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ",
+     "airtime_s": 4.096,
+     "units": 7,
+     "info_bits": 25,
+     "channel_bits": 126
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 101",
+     "airtime_s": 6.304,
+     "units": 15,
+     "info_bits": 65,
+     "channel_bits": 195
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "599 057",
+     "airtime_s": 4.48,
+     "units": 9,
+     "info_bits": 35,
+     "channel_bits": 138
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "airtime_s": 5.408,
+     "units": 13,
+     "info_bits": 55,
+     "channel_bits": 167
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN?",
+     "airtime_s": 3.616,
+     "units": 6,
+     "info_bits": 20,
+     "channel_bits": 111
+    }
+   ],
+   "psk31-macro": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC K1ABC CQ",
+     "airtime_s": 7.84,
+     "units": 21,
+     "info_bits": 85,
+     "channel_bits": 243
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "W9XYZ W9XYZ",
+     "airtime_s": 6.688,
+     "units": 15,
+     "info_bits": 55,
+     "channel_bits": 207
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ 599 101 101",
+     "airtime_s": 8.064,
+     "units": 21,
+     "info_bits": 85,
+     "channel_bits": 250
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "TU 599 057 057",
+     "airtime_s": 7.04,
+     "units": 18,
+     "info_bits": 70,
+     "channel_bits": 218
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "TU K1ABC CQ",
+     "airtime_s": 6.112,
+     "units": 15,
+     "info_bits": 55,
+     "channel_bits": 189
+    },
+    {
+     "kind": "agn",
+     "sender": "sp",
+     "text": "AGN? AGN?",
+     "airtime_s": 5.728,
+     "units": 13,
+     "info_bits": 45,
+     "channel_bits": 177
+    }
+   ],
+   "ft8": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC FN42",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "K1ABC W9XYZ EN52",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ K1ABC -12",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "K1ABC W9XYZ R-09",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "W9XYZ K1ABC RR73",
+     "units": 1,
+     "airtime_s": 12.64,
+     "slot_s": 15.0,
+     "info_bits": 77,
+     "channel_bits": 237
+    }
+   ],
+   "ft4": [
+    {
+     "kind": "cq",
+     "sender": "run",
+     "text": "CQ K1ABC FN42",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    },
+    {
+     "kind": "call",
+     "sender": "sp",
+     "text": "K1ABC W9XYZ EN52",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    },
+    {
+     "kind": "exch_run",
+     "sender": "run",
+     "text": "W9XYZ K1ABC -12",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    },
+    {
+     "kind": "exch_sp",
+     "sender": "sp",
+     "text": "K1ABC W9XYZ R-09",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    },
+    {
+     "kind": "tu",
+     "sender": "run",
+     "text": "W9XYZ K1ABC RR73",
+     "units": 1,
+     "airtime_s": 5.04,
+     "slot_s": 7.5,
+     "info_bits": 77,
+     "channel_bits": 210
+    }
+   ]
+  }
+ },
+ "turnaround_s": 0.0
+}

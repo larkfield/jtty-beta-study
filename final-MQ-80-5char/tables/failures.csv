@@ -1,0 +1,41 @@
+mode,cls,snr_db,trial,failure,grid_phase,sent,printed
+ft8,qso,-15.0,6,missed,,UB3YFP DL6REX RR73,
+ft8,qso,6.0,99,false_text,,SQ6PLD K2UP RR73,SQ6PLD K2UP RR73 | Z1/Q8BK2 UG <...> 73
+ft8,qso,-15.0,215,missed,,KO6BLZ W3RDZ RR73,
+ft8,qso,-15.0,317,missed,,W4DVE PA3GBY GI33,
+ft8,qso,-15.0,355,false_text,,DL8RP 5B4AIE LE09,DL8RP 5B4AIE LE09 | HM4WVL ZY6QGV/P R QF02
+ft8,qso,-15.0,374,missed,,CQ JA9TTT MQ42,
+ft8,qso,-15.0,772,missed,,CQ EB4GSN QK98,
+ft8,qso,-15.0,768,false_text,,DH4TOM G1ECA +05,DH4TOM G1ECA +05 | CQ CZO6RCL6049
+ft8,qso,-15.0,920,missed,,ZS6AF PG2V -04,
+ft8,qso,-15.0,988,missed,,KB1ZZU KO4CES R 589 WY,
+ft8,qso,-14.5,76,missed,,K4EGL SM5YMW 579 WA,
+ft8,qso,-14.5,161,missed,,DS1NMA E76TY R 589 WV,
+ft8,qso,-14.5,187,missed,,CQ KJ7SEF OD95,
+ft8,qso,-14.5,406,missed,,JM8UTO RN4CA RR73,
+ft8,qso,-14.5,461,missed,,DC4XA AB9BZ 579 IL,
+ft8,qso,-14.5,482,missed,,F4HXC JA0FGZ RR73,
+ft8,qso,-14.5,473,missed,,CQ V85BS PO97,
+ft8,qso,-14.5,606,missed,,CQ RU JA0DCB BB11,
+ft8,qso,-14.5,750,false_text,,VK2AEJ N1KSY +00,VK2AEJ N1KSY +00 | <...> 3D5VZ/P ON29
+ft8,qso,-14.5,798,missed,,BA7BK KG4W -07,
+ft8,qso,-14.5,832,missed,,K3WGI ET3AA R 589 CT,
+ft8,qso,-14.5,855,missed,,N2NJY F4ILW IF43,
+ft8,qso,-14.5,907,missed,,CQ 9A7BPF MA44,
+ft8,qso,-14.5,933,false_text,,EA4HRY OE3TBU RR73,EA4HRY OE3TBU RR73 | GH1FHE/P BF5UCT R JO56
+ft8,qso,-14.0,194,false_text,,K4NU LZ5CT CQ98,K4NU LZ5CT CQ98 | <...> RR73; K26MPR <BH8QEK> +02
+ft8,qso,-14.0,365,missed,,DL9ERI HS0ZOC RR73,
+ft8,qso,-14.0,620,missed,,WA0QHL JO2CIA OH71,
+ft8,qso,-14.0,629,missed,,UB8JEG UV6IR R-05,
+ft8,qso,-13.5,472,missed,,KK4KIG G4TAH RR73,
+ft8,qso,-13.5,653,false_text,,CQ RU W8TU GA21,CQ RU W8TU GA21 | 77E37AA2F7292E8AD0
+ft8,qso,-13.5,867,missed,,CQ JP3SML KE85,
+ft8,qso,-13.5,936,missed,,2E0YGL M7FFR RR73,
+ft8,qso,-13.0,254,false_text,,DC1SK W9ML JA24,DC1SK W9ML JA24 | L85WLR EI6ZOG 599 3501
+ft8,qso,-13.0,807,false_text,,F6IOI JQ3HPN 579 SD,F6IOI JQ3HPN 579 SD | FC3WXO 5T2LLY R 31G ENY
+ft8,qso,-13.0,988,missed,,BH2XHI BI3WTS RR73,
+ft4,qso,-12.5,210,missed,,JA3VPA JR3DIZ RR73,
+ft4,qso,-12.5,563,missed,,CQ RU AI7OK FJ46,
+ft4,qso,-12.5,675,missed,,CQ N4OTS LL01,
+ft4,qso,-12.5,707,missed,,SP7LPD R9CD R-11,
+ft4,qso,-12.5,763,missed,,CQ G8BYI GG81,
